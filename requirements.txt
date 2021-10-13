@@ -1,0 +1,9 @@
+absl-py>=0.12.0
+numpy>=1.16.4
+typing>=3.7.4.3
+scipy>=1.7.1
+open-spiel>=1.0.1
+tensorflow>=2.6.0
+tensorflow-datasets>=4.4.0
+jax==0.2.20
+jaxlib==0.1.71
